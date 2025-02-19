@@ -15,7 +15,7 @@ A simple and efficient Todo application built with Next.js.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/nextjs-todo-app.git
+   git clone https://github.com/aarsh487/task_app.git
    cd task_app
    ```
 
